@@ -12,9 +12,9 @@ _Este documento tem como finalidade aprofundar os conhecimentos sobre a arquitet
 
 _Se o barato é loko e o processo é lento no momento, deixa eu separar os tópicos assim:_
 
-* Processo de __boot__ - Uma bagulho sinistro.
-* Setor de boot (16 bits modo real) - 512 bytes de pura emoção.
-* Interrupções - Como lidar?
+* [Processo de __boot__ - Uma bagulho sinistro](boot.d)
+* [Setor de boot (16 bits modo real) - 512 bytes de pura emoção](bootsector.md)
+* [Interrupções - Como lidar?](interrupts.md)
 * [_Registradores_ - O que são? Onde vivem? O que comem?](registers.md)
   * Assembly (com NASM) - Tem que ter fé aqui, sim, tem que insistir!
 * Escrevendo, compilando rodando programas para _x86_ metal crú
