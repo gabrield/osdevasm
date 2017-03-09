@@ -10,7 +10,7 @@ _Este documento tem como finalidade aprofundar os conhecimentos sobre a arquitet
 
 _Se o barato é loko e o processo é lento no momento, deixa eu separar os tópicos assim:_
 
-* [Processo de __boot__ - Uma bagulho sinistro](boot.d)
+* [Processo de __boot__ - Uma bagulho sinistro](boot.md)
 * [Setor de boot (16 bits modo real) - 512 bytes de pura emoção](bootsector.md)
 * [Interrupções - Como lidar?](interrupts.md)
 * [_Registradores_ - O que são? Onde vivem? O que comem?](registers.md)
