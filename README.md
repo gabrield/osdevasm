@@ -8,7 +8,7 @@ __________________________________
 
 _Este documento tem como finalidade aprofundar os conhecimentos sobre a arquitetura x86 e assembly (usando NASM), usando uma abordagem prática. Todo o processo será voltado para o desenvolvimento de um pequeno sistema operacional na moral, com capacidade de dar boot, escrever na tela, receber entrada a partir de um teclado e executar pequenos comandos, além de um carregador de aplicações externas que podem ser carregadas através de uma midia (floppy/HD/SD). Todo desenvolvimento será feito usando um emulador de x86 (BOCHS) para que possamos ter um ambiente de testes confiável o homogêneo, sem neurose, sem caô._
 
-_Se o barato é loko e o processo é lento no momento, deixa eu separar os tópicos assim:_
+_Se o barato é louco e o processo é lento no momento, deixa eu separar os tópicos assim:_
 
 * [Processo de __boot__ - Uma bagulho sinistro](boot.md)
 * [Setor de boot (16 bits modo real) - 512 bytes de pura emoção](bootsector.md)
