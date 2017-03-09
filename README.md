@@ -30,7 +30,7 @@ Se o barato é loko e o processo é lento no momento, deixa eu separar os tópic
 O termo _x86_ pode ser referir tanto para um conjunto de instruções e a microprocessadores que implementam esse mesmo conjunto. O nome x86 é derivado a partir do fato que muitos processadores antigos da Intel tinham nomes terminados em 86.
 __________________________________
 
-## __Registradores__ - 
+## __Registradores__ - O que são? Onde vivem? O que comem? 
 
 A arquitetura _x86_ possui 8 registradores de propósito geral, ou GPR (General-Purpose Registes), 6 registros de segmento, 1 registrador de flags e um registrador de Ponteiro de Instrução, ou IP (Instruction Pointer).
 
