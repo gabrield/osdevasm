@@ -32,7 +32,7 @@ O registrador _EFLAGS_ é um registrador de 32 bits usada como uma coleção de 
 O Ponteiro de Instrução armazena o endereço da próxima instrução a ser executada se nenhum saldo condicional acorre. O _IP_ só pode ser somente lido através da pilha após a chamada de uma intrução __call__.
 
 
-```assembly
+```assembly_x86
 mov ax, 13h
 ```
 
